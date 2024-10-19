@@ -1,0 +1,31 @@
+Algorithm Design Lab #1
+Corey Keller
+1/20/24
+
+Problem Description: Create an introduction for myself in python. The introduction needs to include my first and last name, my major, three of my hobbies and a "I" logo made out of the * symbols.
+
+Algorithm Design:
+
+Step 1: Print out a line that says "My name is " with your first and last name following message, capping it with a period
+
+Step 2: Print out a line that says "My major is " with your major following the message, capping it with a period
+
+Step 3: Print out a line that says "These are my hobbies:"
+
+Step 4: Print out a line that lists one of my hobbies after a - symbol with 2 spaces before the - symbol
+
+Step 5: Print out a line that lists one of my hobbies after a - symbol with 2 spaces before the - symbol
+
+Step 6: Print out a line that lists one of my hobbies after a - symbol with 2 spaces before the - symbol
+
+Step 7: Print a blank line
+
+Step 8: print "     *******" to create the top of the I
+
+Step 9: Print "       ***  " to start the middle of the I
+
+Step 10: Print "       ***  " to continue the middle of the I
+
+Step 11: Print "       ****  " to continue the middle of the I
+
+Step 12: Print "     *******" to finish the I with the bottom
